@@ -11,8 +11,8 @@ A simple calculator app built in Kotlin.
 
 ## Screenshots
 
-![Screenshot 1]([screenshots/screenshot1.jpg](https://github.com/omjeem/calculator/blob/master/ScreenShots/CALC%201.jpg))
-![Screenshot 2]([screenshots/screenshot2.png](https://github.com/omjeem/calculator/blob/master/ScreenShots/CALC%202.jpg))
+![Screenshot 1]([screenshots/CALC1.jpg](https://github.com/omjeem/calculator/blob/master/ScreenShots/CALC%201.jpg))
+![Screenshot 2]([screenshots/CALC2.jpg](https://github.com/omjeem/calculator/blob/master/ScreenShots/CALC%202.jpg))
 
 
 ## Installation
