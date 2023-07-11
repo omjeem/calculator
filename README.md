@@ -37,7 +37,5 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 
 
 
-## Contact
 
-For any questions or feedback, please contact me at [youremail@example.com](mailto:youremail@example.com).
 
